@@ -32,3 +32,8 @@ function convertToAdjList(adjMatrix) {
 }
 
 //I used ChatGPT to help me construct the psudocode and then I write the code based on that
+//here is the psudocode: 
+//initialize adjList as new map
+//initialize the adjacency list
+//fill the adjacency list based on the matrix
+//finalize the conversion by removing duplicates and sorting to keep the consistent order
